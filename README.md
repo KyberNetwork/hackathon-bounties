@@ -12,7 +12,7 @@ Our bounties have the core idea of leveraging our protocol for use in other proj
 Check out the GitHub issues in this repository for some of our proposed bounties for the hackathon.
 
 #### Create a GitHub repo for the bounty
-Please create a new GitHub repo for the bounty you'll be working on to make it easier for us to see the team members involved in the project. Please ensure that all team members are visible pubicly so we know who to pay the prizes to.
+Please create a new GitHub repo for the bounty you'll be working on to make it easier for us to see the team members involved in the project. Ensure that all team members are visible publicly so we know who to pay the prizes to.
 
 #### Need guides?
 Our [developer portal](https://developer.kyber.network/) is the place to go!
