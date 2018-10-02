@@ -1,48 +1,72 @@
 # Hackathon Bounties
+After witnessing the projects that integrated with Kyber at ETHBerlin, we cannot wait to see what ETH San Francisco has to offer!
 
-After witnessing the cool projects built at hackathons like ETHBerlin, we cannot wait to see what future hackathons can offer! There is a strong spirit of collaboration at these events, and we hope to further promote this ideal through the bounties we are offering. To get an idea of the kind of collaboration going on, take a look at [InstaDapp](https://ethindia.conteract.io/), a project put together in ETHIndia, where they won MakerDAO's first prize bounty of $3k in DAI.
+<!-- Table Of Contents-->'
+- [What is Kyber?](#what-is-kyber)
+- [What can you #BUIDLwithKyber?](#what-can-you-buidlwithkyber)
+- [Bounties](#bounties)
+- [Prizes](#prizes)
+- [Judging Criteria](#judging-criteria)
+- [Contacting Us](#contacting-us)
 
-Our bounties have the core idea of leveraging our protocol for use in other projects.
+## What is Kyber?
+Kyber is a widely used on-chain protocol that makes accessing liqudity simple for users, DApps and financial applications. Developers can directly embed value exchanges into their smart contracts without any technical or security overhead.
 
----
+## What can you #BUIDLwithKyber?
+<?>
+### 1. Instant token swaps
+Embed ERC20 <-> ERC20 token swaps in your application.
 
-## Getting Started
+### 2. Single Step Payments
+Expand your payment options for your users by accepting not just ETH, but ERC20 tokens too. Eg. Peepeth and Etheremon
 
-#### Check the GitHub issues for a list of bounties
-Check out the GitHub issues in this repository for some of our proposed bounties for the hackathon.
+### 3. On-chain Fund Rebalancing
+Achieve seamless liquidation of assets for immediate rebalancing of portfolios in a single transaction. Eg. Betoken
 
-#### Create a GitHub repo for the bounty
-Please create a new GitHub repo for the bounty you'll be working on to make it easier for us to see the team members involved in the project. Please ensure that all team members are visible pubicly so we know who to pay the prizes to.
+### 4. Arbitrage Programs
+Take advantage of market inefficiencies, since prices are not always the same across different price discovery venues.
 
-#### Need guides?
-Our [developer portal](https://developer.kyber.network/) is the place to go!
-In particular, do check out our [DApp Integration Guide!](https://developer.kyber.network/docs/DappsGuide/)
+If you need more ideas on what you can build, take a look at the bounties below!
 
-#### BUIDL
-Work on your project as you like, how you work is up to you! However, remember to only begin working on your project after the hackathon begins!
+## Bounties
+Our bounties revolve around the theme of collaboration, whereby our protocol is seamlessly integrated in other projects.
 
----
+1. [Collateral Liquidation On-Chain](https://github.com/KyberNetwork/hackathon-bounties/issues/1)
+Lending platforms such as ETHLend, Dharma and Bloqboard allow for ERC20 tokens to be put as collateral. In the event of a loan default, allow the lender to perform liqudation of collateral into the token of his choice whilst withdrawing it into his account.
 
-## General Criteria
+2. [Off-Chain Virtual Orderbook Relayer](https://github.com/KyberNetwork/hackathon-bounties/issues/2)
+Reconstruct an orderbook by extracting information from Kyber's reserves (denoted as on-chain orders), while allowing users to create off-chain orders. It'll be interesting to see how settlement occurs between an on-chain and off-chain order.
 
-#### 1. Idea
+3. [Integration with MakerDAO's Collateralized Debt Position (CDP)](https://github.com/KyberNetwork/hackathon-bounties/issues/3)
+Allow CDPs to be created and closed with ERC20 tokens.
+
+4. [Arbitrage Programs](https://github.com/KyberNetwork/hackathon-bounties/issues/4)
+Make a DApp that takes advantage of market inefficiencies between Kyber and another venue! Take the bounty, keep the profit!
+
+## [Open Category](https://github.com/KyberNetwork/hackathon-bounties/issues/5)
+If you have your own idea that integrates with our protocol, why not apply for the official API prize? Dive into our tech, utilize it in a cool way and show us!
+
+## Prizes
+Stand to win $2000 USD worth of KNC tokens for each bounty. The official API prize has a higher prize pool of $3000 USD worth of KNC tokens!
+
+## Judging Criteria
+### 1. Idea
+The importance of Kyber's protocol in the application, & originality of the idea.
+
+### 2. User Experience
 Intuitive, easy to use and interact with.
 
-#### 2. User Experience
-Intuitive, easy to use and interact with.
-
-#### 3. Technical Difficulty
+### 3. Technical Difficulty
 Going above and beyond of what we specified. Good code quality, bug free, with thorough documentation.
 
-#### 4. Usability
+### 4. Usability
 Other projects are able to build on top of your application, or incorporate it into their own.
 
-#### 5. X Factor
+### 5. X Factor
 Something that makes us go "Wow!"
 
 ---
 
-## Kyber Team
-
+## Contacting Us
 We may have a booth set up during the hackathon, so drop by to meet us!
 You may join our [developer group on Telegram!](https://t.me/kyberdeveloper)
