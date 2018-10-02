@@ -1,7 +1,7 @@
 # Hackathon Bounties
 After witnessing the projects that integrated with Kyber at ETHBerlin, we cannot wait to see what ETH San Francisco has to offer!
 
-<!-- Table Of Contents-->'
+<!-- Table Of Contents-->
 [What is Kyber?](#what-is-kyber)<br>
 [What can you #BUIDLwithKyber?](#what-can-you-buidlwithkyber)<br>
 [Bounties](#bounties)<br>
