@@ -18,10 +18,10 @@ Kyber is a widely used on-chain protocol that makes accessing liqudity simple fo
 Embed simple and atomic ERC20 <-> ERC20 token swaps in your application. 
 
 ### Single Step Payments
-Expand your payment options for your users by accepting not just ETH, but ERC20 tokens too. Empower your users with the freedom of choice in pay in their favourite tokens. Peepeth and Etheremon are but some examples.
+Expand your payment options for your users by accepting not just ETH, but ERC20 tokens too. Empower your users with the freedom of choice in pay in their favourite tokens. [Peepeth](https://peepeth.com/a/crowdfunding) and [Etheremon](https://hackernoon.com/etheremon-integrates-with-kybers-on-chain-liquidity-protocol-a-new-payment-solution-for-ccbb36dfd595) are but some examples.
 
 ### On-chain Fund Rebalancing
-Achieve seamless liquidation of assets for immediate rebalancing of portfolios in a single transaction. Take a look at BeToken for a glimpse of what is possible!
+Achieve seamless liquidation of assets for immediate rebalancing of portfolios in a single transaction. Take a look at [Betoken](https://medium.com/betoken/6-primordial-reasons-to-build-a-decentralized-hedge-fund-with-kyber-1bbb3ed6a4d9) for a glimpse of what is possible!
 
 ### Arbitrage Programs
 Take advantage of market inefficiencies, since prices are not always the same across different price discovery venues, especially between off-chain and on-chain prices. Help improve price equilibrium across the market whilst profiting from it!
