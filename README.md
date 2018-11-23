@@ -38,23 +38,30 @@ Take advantage of market inefficiencies, since prices are not always the same ac
 If you need more ideas on what you can build, take a look at the bounties below!
 
 ## Bounties
+### Simple Swap Interface on IPFS
+Create a static website hosted on IPFS that interact with Kyber's smart contracts via Infura.
+
 ### [Collateral Liquidation On-Chain](https://github.com/KyberNetwork/hackathon-bounties/issues/1)
 Lending platforms such as ETHLend, Dharma and Bloqboard allow for ERC20 tokens to be put as collateral. In the event of a loan default, allow the lender to perform liqudation of collateral into the token of his choice whilst withdrawing it into his account.
 
 ### [Off-Chain Virtual Orderbook Relayer](https://github.com/KyberNetwork/hackathon-bounties/issues/2)
 Reconstruct an orderbook by extracting information from Kyber's reserves (denoted as on-chain orders), while allowing users to create off-chain orders. It'll be interesting to see how settlement occurs between an on-chain and off-chain order.
 
+### Status Extensions
+
+
 ### [Integration with MakerDAO's Collateralized Debt Position (CDP)](https://github.com/KyberNetwork/hackathon-bounties/issues/3)
-Allow CDPs to be created and closed with ERC20 tokens.
+Allow CDPs to be closed with ERC20 tokens.
 
 ### [Arbitrage Programs](https://github.com/KyberNetwork/hackathon-bounties/issues/4)
 Make a DApp that takes advantage of market inefficiencies between Kyber and another venue! Take the bounty, keep the profit!
+
 
 ## [Open Category](https://github.com/KyberNetwork/hackathon-bounties/issues/5)
 If you have your own idea that integrates with our protocol, why not apply for the official API prize? Dive into our tech, utilize it in a cool way and show us!
 
 ## Prizes
-Stand to win $2000 USD worth of KNC tokens for each bounty. The official API prize has a higher prize pool of $3000 SGD worth of KNC tokens!
+Stand to win $2000 SGD worth of KNC tokens for each bounty. The official API prize has a higher prize pool of $3000 SGD worth of KNC tokens!
 
 ## Judging Criteria
 ### 1. Idea
