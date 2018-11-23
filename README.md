@@ -1,5 +1,5 @@
 # Hackathon Bounties
-After witnessing the projects that integrated with Kyber at ETHBerlin, we cannot wait to see what ETH San Francisco has to offer!
+We were blown away by the projects that integrated with Kyber at ETHSF, and are excited to see what ETHSG can bring!
 
 <!-- Table Of Contents-->
 [What is Kyber?](#what-is-kyber)<br>
@@ -54,7 +54,7 @@ Make a DApp that takes advantage of market inefficiencies between Kyber and anot
 If you have your own idea that integrates with our protocol, why not apply for the official API prize? Dive into our tech, utilize it in a cool way and show us!
 
 ## Prizes
-Stand to win $2000 USD worth of KNC tokens for each bounty. The official API prize has a higher prize pool of $3000 USD worth of KNC tokens!
+Stand to win $2000 USD worth of KNC tokens for each bounty. The official API prize has a higher prize pool of $3000 SGD worth of KNC tokens!
 
 ## Judging Criteria
 ### 1. Idea
