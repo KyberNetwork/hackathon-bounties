@@ -50,9 +50,6 @@ Reconstruct an orderbook by extracting information from Kyber's reserves (denote
 ### "Layer 2" Services
 Consider allowing for more complex trade orders to be executed using Kyber. For example, a user can create and sign a limit order. An application can be built to collate these orders, and execute them on Kyber when the price reaches the desired limit.
 
-### Status
-Allow a recipient to be able to receive any incoming deposit / payment in their preferred token of choice inside Status's wallet.
-
 ### [Integration with MakerDAO's Collateralized Debt Position (CDP)](https://github.com/KyberNetwork/hackathon-bounties/issues/3)
 Currently, closing CDPs requires the usage of MKR tokens. Make it such that 1-click closing of CDPs can be supported with other ERC20 tokens.
 
