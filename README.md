@@ -39,7 +39,7 @@ If you need more ideas on what you can build, take a look at the bounties below!
 
 ## Bounties
 ### Simple Swap Interface on IPFS
-Create a static website hosted on IPFS that interact with Kyber's smart contracts via Infura.
+Create a static website hosted on IPFS that interacts directly with Kyber's smart contracts via Infura. In other words, the website is a simple interface that allows any user to easily swap between ERC20 tokens and Ether.
 
 ### [Collateral Liquidation On-Chain](https://github.com/KyberNetwork/hackathon-bounties/issues/1)
 Lending platforms such as ETHLend, Dharma and Bloqboard allow for ERC20 tokens to be put as collateral. In the event of a loan default, allow the lender to perform liqudation of collateral into the token of his choice whilst withdrawing it into his account.
@@ -48,10 +48,10 @@ Lending platforms such as ETHLend, Dharma and Bloqboard allow for ERC20 tokens t
 Reconstruct an orderbook by extracting information from Kyber's reserves (denoted as on-chain orders), while allowing users to create off-chain orders. It'll be interesting to see how settlement occurs between an on-chain and off-chain order.
 
 ### Status
-See if there's something we can do together
+Allow a recipient to be able to receive any incoming deposit / payment in their preferred token of choice inside Status's wallet.
 
 ### [Integration with MakerDAO's Collateralized Debt Position (CDP)](https://github.com/KyberNetwork/hackathon-bounties/issues/3)
-Allow CDPs to be closed with ERC20 tokens.
+Currently, closing CDPs requires the usage of MKR tokens. Make it such that 1-click closing of CDPs can be supported with other ERC20 tokens.
 
 ### [Arbitrage Programs](https://github.com/KyberNetwork/hackathon-bounties/issues/4)
 Make a DApp that takes advantage of market inefficiencies between Kyber and another venue! Take the bounty, keep the profit!
