@@ -47,6 +47,9 @@ Lending platforms such as ETHLend, Dharma and Bloqboard allow for ERC20 tokens t
 ### [Off-Chain Virtual Orderbook Relayer](https://github.com/KyberNetwork/hackathon-bounties/issues/2)
 Reconstruct an orderbook by extracting information from Kyber's reserves (denoted as on-chain orders), while allowing users to create off-chain orders. It'll be interesting to see how settlement occurs between an on-chain and off-chain order.
 
+### "Layer 2" Services
+Consider allowing for more complex trade orders to be executed using Kyber. For example, a user can create and sign a limit order. An application can be built to collate these orders, and execute them on Kyber when the price reaches the desired limit.
+
 ### Status
 Allow a recipient to be able to receive any incoming deposit / payment in their preferred token of choice inside Status's wallet.
 
