@@ -70,7 +70,7 @@ Make a DApp that takes advantage of market inefficiencies between Kyber and anot
 If you have your own idea that integrates with our protocol, why not apply for the official API prize? Dive into our tech, utilize it in a cool way and show us!
 
 ## Prizes
-Stand to win up to $2000 SGD worth of KNC tokens for the themed bounty. Specific amounts can be found in the respective Github pages. The official API prize (Open Category) has a higher prize pool of $3000 SGD worth of KNC tokens!
+Stand to win up to $2000 SGD worth of KNC tokens for the themed bounty. Specific amounts can be found in the respective Github issue pages. The official API prize (Open Category) has a higher prize pool of $3000 SGD worth of KNC tokens!
 
 ## Judging Criteria
 ### 1. Idea
