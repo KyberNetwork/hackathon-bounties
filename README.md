@@ -10,15 +10,20 @@ We were blown away by the projects that integrated with Kyber at ETHSF, and are 
 [Contacting Us](#contacting-us)
 
 ## What is Kyber?
-Kyber is a widely used on-chain protocol that makes accessing liquidity simple for users, DApps and financial applications. The protocol has powered decentralised token swaps on popular wallets like MyEtherWallet and imToken, decentralised token payments (users can pay in any supported ERC20 token) in popular DApps like Etheremon and Peepeth and providing an on-chain liquidity source for decentralised financial applications like MelonPort, Set Protocol, b0x and many more.
+Kyber is a fully on-chain protocol that powers decentralised token swaps for wallets, applications and platforms. It can be used in 4 major ways.
 
-Kyber protocol brings token inventories and prices on-chain, hence allowing developers to directly embed value exchanges into their smart contracts without any technical or security overhead. This allows for:
+### 1. End User Token Swaps
+The simplest use-case that allows users to easily swap from any ERC20 token to another, including Ether. This functionality can be found in popular wallets like MyEtherWallet and imToken, and on websites such as KyberSwap and Easwap.
 
-- Instant confirmation. A transaction happens with instant confirmation if it's sent from on-chain entities like smart contracts. Otherwise, once the transaction is included on the blockchain, the execution triggered by the transaction is immediately confirmed.
+### 2. Trading Integrations
+We allow for arbitrage bots to take advantage and profit off market inefficiencies, either by directly interacting with our smart contracts, or through our recently announced [trading API](https://blog.kyber.network/introducing-the-kyber-trading-api-b30550645b74).
 
-- Operation certainty. There is no transactional risk. Users know the rate and how much liquidity is available before they commit their transaction. There is also no settlement uncertainty or counterparty risk.
+### 3. Payments
+Users can purchase virtual collectibles in the form of non-fungible tokens (NFTs) with any supported ERC20 token on Kyber. More broadly, any platform can widen their payment options from just Ether to include ERC20 tokens as well. Examples include Etheremon and Peepeth.
 
-- Global and diverse pool of different tokens. Kyber welcomes token holders to contribute their token to the liquidity pool. By having their token made available to the liquidity pool, the token will be available in all services integrated with Kyber.
+### 4. Finance
+A number of financial DApps use Kyber as an on-chain price feed. The liquidity provided by Kyber’s reserves are also used for index fund rebalancing, as one can see in Betoken and MelonPort.
+
 
 ## What can you #BUIDLwithKyber?
 
@@ -34,12 +39,20 @@ Achieve seamless liquidation of assets for immediate rebalancing of portfolios i
 ### Arbitrage Programs
 Take advantage of market inefficiencies, since prices are not always the same across different price discovery venues, especially between off-chain and on-chain prices. Help improve price equilibrium across the market whilst profiting from it!
 
-
 If you need more ideas on what you can build, take a look at the bounties below!
 
 ## Bounties
 ### Simple Swap Interface on IPFS
 Create a static website hosted on IPFS that interacts directly with Kyber's smart contracts via Infura. In other words, the website is a simple interface that allows any user to easily swap between ERC20 tokens and Ether.
+
+### "Layer 2" Services
+Consider allowing for more complex trade orders to be executed using Kyber. For example, a user can create and sign a limit order. An application can be built to collate these orders, and execute them on Kyber when the price reaches the desired limit.
+
+### Historical Data Tool
+Create an interface or API where users can query historical price and volume trade data of the different tokens supported on Kyber. This data should be cached to quicken access by 3rd party applications who require such data.
+
+### Set Protocol Issuance Relayer
+Build an issuance relayer that taps on liquidity provided from Kyber’s reserves and from other liquidity providers like 0x. This enables users to obtain competitive prices for their Set, while also providing savvy market takers with arbitrage opportunities.
 
 ### [Collateral Liquidation On-Chain](https://github.com/KyberNetwork/hackathon-bounties/issues/1)
 Lending platforms such as ETHLend, Dharma and Bloqboard allow for ERC20 tokens to be put as collateral. In the event of a loan default, allow the lender to perform liqudation of collateral into the token of his choice whilst withdrawing it into his account.
@@ -47,21 +60,17 @@ Lending platforms such as ETHLend, Dharma and Bloqboard allow for ERC20 tokens t
 ### [Off-Chain Virtual Orderbook Relayer](https://github.com/KyberNetwork/hackathon-bounties/issues/2)
 Reconstruct an orderbook by extracting information from Kyber's reserves (denoted as on-chain orders), while allowing users to create off-chain orders. It'll be interesting to see how settlement occurs between an on-chain and off-chain order.
 
-### "Layer 2" Services
-Consider allowing for more complex trade orders to be executed using Kyber. For example, a user can create and sign a limit order. An application can be built to collate these orders, and execute them on Kyber when the price reaches the desired limit.
-
 ### [Integration with MakerDAO's Collateralized Debt Position (CDP)](https://github.com/KyberNetwork/hackathon-bounties/issues/3)
-Currently, closing CDPs requires the usage of MKR tokens. Make it such that 1-click closing of CDPs can be supported with other ERC20 tokens.
+The creation of a CDP requires ETH, while its closing requires DAI and MKR tokens respectively. Furthermore, the creation and closing process is rather tedious and complicated, where one has to understand the mechanism well. Consider simplifying the process to make it user-friendly and easy to do in a single step.
 
 ### [Arbitrage Programs](https://github.com/KyberNetwork/hackathon-bounties/issues/4)
 Make a DApp that takes advantage of market inefficiencies between Kyber and another venue! Take the bounty, keep the profit!
-
 
 ## [Open Category](https://github.com/KyberNetwork/hackathon-bounties/issues/5)
 If you have your own idea that integrates with our protocol, why not apply for the official API prize? Dive into our tech, utilize it in a cool way and show us!
 
 ## Prizes
-Stand to win $2000 SGD worth of KNC tokens for each bounty. The official API prize has a higher prize pool of $3000 SGD worth of KNC tokens!
+Stand to win up to $2000 SGD worth of KNC tokens for the themed bounty. Specific amounts can be found in the respective Github pages. The official API prize (Open Category) has a higher prize pool of $3000 SGD worth of KNC tokens!
 
 ## Judging Criteria
 ### 1. Idea
