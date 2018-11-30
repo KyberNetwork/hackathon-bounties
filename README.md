@@ -42,16 +42,16 @@ Take advantage of market inefficiencies, since prices are not always the same ac
 If you need more ideas on what you can build, take a look at the bounties below!
 
 ## Bounties
-### Simple Swap Interface on IPFS
+### [Simple Swap Interface on IPFS](https://github.com/KyberNetwork/hackathon-bounties/issues/9)
 Create a static website hosted on IPFS that interacts directly with Kyber's smart contracts via Infura. In other words, the website is a simple interface that allows any user to easily swap between ERC20 tokens and Ether.
 
-### "Layer 2" Services
+### [Advanced Trading Orders](https://github.com/KyberNetwork/hackathon-bounties/issues/10)
 Consider allowing for more complex trade orders to be executed using Kyber. For example, a user can create and sign a limit order. An application can be built to collate these orders, and execute them on Kyber when the price reaches the desired limit.
 
-### Historical Data Tool
+### [Historical Data Tool](https://github.com/KyberNetwork/hackathon-bounties/issues/11)
 Create an interface or API where users can query historical price and volume trade data of the different tokens supported on Kyber. This data should be cached to quicken access by 3rd party applications who require such data.
 
-### Set Protocol Issuance Relayer
+### [Set Protocol Issuance Relayer](https://github.com/KyberNetwork/hackathon-bounties/issues/12)
 Build an issuance relayer that taps on liquidity provided from Kyber’s reserves and from other liquidity providers like 0x. This enables users to obtain competitive prices for their Set, while also providing savvy market takers with arbitrage opportunities.
 
 ### [Collateral Liquidation On-Chain](https://github.com/KyberNetwork/hackathon-bounties/issues/1)
