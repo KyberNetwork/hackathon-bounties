@@ -1,3 +1,7 @@
+# Introduction to Solidity Slides
+
+https://docs.google.com/presentation/d/1gh3nnXKbf7oq-YnDtO31iBXOkph2bc_cU3GYNSXZWm0/edit?usp=sharing
+
 # Hackathon Bounties
 We were blown away by the projects that integrated with Kyber at ETHSF, and are excited to see what ETHSG can bring!
 
