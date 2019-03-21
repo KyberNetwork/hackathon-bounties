@@ -1,7 +1,3 @@
-# Introduction to Solidity Slides
-
-https://docs.google.com/presentation/d/1gh3nnXKbf7oq-YnDtO31iBXOkph2bc_cU3GYNSXZWm0/edit?usp=sharing
-
 # Hackathon Bounties
 We were blown away by the projects that integrated with Kyber at ETHSF, and are excited to see what ETHSG can bring!
 
@@ -46,35 +42,11 @@ Take advantage of market inefficiencies, since prices are not always the same ac
 If you need more ideas on what you can build, take a look at the bounties below!
 
 ## Bounties
-### [Simple Swap Interface on IPFS](https://github.com/KyberNetwork/hackathon-bounties/issues/9)
-Create a static website hosted on IPFS that interacts directly with Kyber's smart contracts via Infura. In other words, the website is a simple interface that allows any user to easily swap between ERC20 tokens and Ether.
-
-### [Advanced Trading Orders](https://github.com/KyberNetwork/hackathon-bounties/issues/10)
-Consider allowing for more complex trade orders to be executed using Kyber. For example, a user can create and sign a limit order. An application can be built to collate these orders, and execute them on Kyber when the price reaches the desired limit.
-
-### [Historical Data Tool](https://github.com/KyberNetwork/hackathon-bounties/issues/11)
-Create an interface or API where users can query historical price and volume trade data of the different tokens supported on Kyber. This data should be cached to quicken access by 3rd party applications who require such data.
-
-### [Set Protocol Issuance Relayer](https://github.com/KyberNetwork/hackathon-bounties/issues/12)
-Build an issuance relayer that taps on liquidity provided from Kyber’s reserves and from other liquidity providers like 0x. This enables users to obtain competitive prices for their Set, while also providing savvy market takers with arbitrage opportunities.
-
-### [Collateral Liquidation On-Chain](https://github.com/KyberNetwork/hackathon-bounties/issues/1)
-Lending platforms such as ETHLend, Dharma and Bloqboard allow for ERC20 tokens to be put as collateral. In the event of a loan default, allow the lender to perform liqudation of collateral into the token of his choice whilst withdrawing it into his account.
-
-### [Off-Chain Virtual Orderbook Relayer](https://github.com/KyberNetwork/hackathon-bounties/issues/2)
-Reconstruct an orderbook by extracting information from Kyber's reserves (denoted as on-chain orders), while allowing users to create off-chain orders. It'll be interesting to see how settlement occurs between an on-chain and off-chain order.
-
-### [Integration with MakerDAO's Collateralized Debt Position (CDP)](https://github.com/KyberNetwork/hackathon-bounties/issues/3)
-The creation of a CDP requires ETH, while its closing requires DAI and MKR tokens respectively. Furthermore, the creation and closing process is rather tedious and complicated, where one has to understand the mechanism well. Consider simplifying the process to make it user-friendly and easy to do in a single step.
-
-### [Arbitrage Programs](https://github.com/KyberNetwork/hackathon-bounties/issues/4)
-Make a DApp that takes advantage of market inefficiencies between Kyber and another venue! Take the bounty, keep the profit!
-
-## [Open Category](https://github.com/KyberNetwork/hackathon-bounties/issues/5)
-If you have your own idea that integrates with our protocol, why not apply for the official API prize? Dive into our tech, utilize it in a cool way and show us!
+### [Integrate Kyber ontop of a scaling solution](https://github.com/KyberNetwork/hackathon-bounties/issues/15)
+Build a DApp that utilises one of the scaling solutions and integrate Kyber's protocol to handle the payment layer!
 
 ## Prizes
-Stand to win up to $2000 SGD worth of KNC tokens for the themed bounty. Specific amounts can be found in the respective Github issue pages. The official API prize (Open Category) has a higher prize pool of $3000 SGD worth of KNC tokens!
+Stand to win up to $1500 USD worth of KNC tokens for the themed bounty. Specific amounts can be found in the respective Github issue pages.
 
 ## Judging Criteria
 ### 1. Idea
