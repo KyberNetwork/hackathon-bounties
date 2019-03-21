@@ -19,7 +19,7 @@ The simplest use-case that allows users to easily swap from any ERC20 token to a
 We allow for arbitrage bots to take advantage and profit off market inefficiencies, either by directly interacting with our smart contracts, or through our recently announced [trading API](https://blog.kyber.network/introducing-the-kyber-trading-api-b30550645b74).
 
 ### 3. Payments
-Users can purchase virtual collectibles in the form of non-fungible tokens (NFTs) with any supported ERC20 token on Kyber. More broadly, any platform can widen their payment options from just Ether to include ERC20 tokens as well. Examples include Etheremon and Peepeth.
+Users can purchase virtual collectibles in the form of non-fungible tokens (NFTs) with any supported ERC20 token on Kyber. More broadly, any platform can widen their payment options from just Ether to include ERC20 tokens as well. Examples include Hodlmoon and Chainfuel.
 
 ### 4. Finance
 A number of financial DApps use Kyber as an on-chain price feed. The liquidity provided by Kyber’s reserves are also used for index fund rebalancing, as one can see in Betoken and MelonPort.
@@ -31,10 +31,10 @@ A number of financial DApps use Kyber as an on-chain price feed. The liquidity p
 Embed simple and atomic ERC20 <-> ERC20 token swaps in your application.
 
 ### Single Step Payments
-Expand your payment options for your users by accepting not just ETH, but ERC20 tokens too. Empower your users with the freedom of choice in pay in their favourite tokens. [Peepeth](https://peepeth.com/a/crowdfunding) and [Etheremon](https://hackernoon.com/etheremon-integrates-with-kybers-on-chain-liquidity-protocol-a-new-payment-solution-for-ccbb36dfd595) are but some examples.
+Expand your payment options for your users by accepting not just ETH, but ERC20 tokens too. Empower your users with the freedom of choice in pay in their favourite tokens. [Hodlmoon](https://blog.kyber.network/hodlmoon-to-integrate-kybers-woocommerce-plugin-and-accept-token-payments-6baeda65c10e) and [Chainfuel](https://www.chainfuel.com/blog/chainfuel-integrates-kyberwidget-to-accept-erc20-tokens-for-telegram-community-management-automation) are but some examples.
 
 ### On-chain Fund Rebalancing
-Achieve seamless liquidation of assets for immediate rebalancing of portfolios in a single transaction. Take a look at [b0x](https://medium.com/@b0xNet/kyber-bzx-b6f5330289a6) and [Betoken](https://medium.com/betoken/6-primordial-reasons-to-build-a-decentralized-hedge-fund-with-kyber-1bbb3ed6a4d9) for a glimpse of what is possible!
+Achieve seamless liquidation of assets for immediate rebalancing of portfolios in a single transaction. Take a look at [bZx](https://medium.com/@b0xNet/kyber-bzx-b6f5330289a6) and [Betoken](https://medium.com/betoken/6-primordial-reasons-to-build-a-decentralized-hedge-fund-with-kyber-1bbb3ed6a4d9) for a glimpse of what is possible!
 
 ### Arbitrage Programs
 Take advantage of market inefficiencies, since prices are not always the same across different price discovery venues, especially between off-chain and on-chain prices. Help improve price equilibrium across the market whilst profiting from it!
