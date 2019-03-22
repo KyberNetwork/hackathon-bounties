@@ -1,5 +1,5 @@
 # Hackathon Bounties
-We were blown away by the projects that integrated with Kyber at ETHSF, and are excited to see what ETHSG can bring!
+We were blown away by the projects that integrated with Kyber at ETHSG, and are excited to see what EDCON can bring!
 
 <!-- Table Of Contents-->
 [What is Kyber?](#what-is-kyber)<br>
@@ -28,7 +28,7 @@ A number of financial DApps use Kyber as an on-chain price feed. The liquidity p
 ## What can you #BUIDLwithKyber?
 
 ### Instant token swaps
-Embed simple and atomic ERC20 <-> ERC20 token swaps in your application.
+Embed simple and atomic ERC20 <-> ERC20 token swaps in your application. [Enjin](https://blog.kyber.network/enjin-wallet-integrates-kyber-to-enable-in-wallet-token-swaps-476a08f9bf9a) and [KyberSwap](https://kyberswap.com/swap/eth-knc) are examples of these.
 
 ### Single Step Payments
 Expand your payment options for your users by accepting not just ETH, but ERC20 tokens too. Empower your users with the freedom of choice in pay in their favourite tokens. [Hodlmoon](https://blog.kyber.network/hodlmoon-to-integrate-kybers-woocommerce-plugin-and-accept-token-payments-6baeda65c10e) and [Chainfuel](https://www.chainfuel.com/blog/chainfuel-integrates-kyberwidget-to-accept-erc20-tokens-for-telegram-community-management-automation) are but some examples.
@@ -46,7 +46,7 @@ If you need more ideas on what you can build, take a look at the bounties below!
 Build a DApp that utilises one of the scaling solutions and integrate Kyber's protocol to handle the payment layer!
 
 ## Prizes
-Stand to win up to $1500 USD worth of KNC tokens for the themed bounty. Specific amounts can be found in the respective Github issue pages.
+Stand to win up to $1500 USD worth of KNC tokens for Kyber's EDCON bounty.
 
 ## Judging Criteria
 ### 1. Idea
