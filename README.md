@@ -42,7 +42,7 @@ Take advantage of market inefficiencies, since prices are not always the same ac
 If you need more ideas on what you can build, take a look at the bounties below!
 
 ## Bounties
-### [Integrate Kyber ontop of a scaling solution](https://github.com/KyberNetwork/hackathon-bounties/issues/15)
+### [Integrate Kyber into an application that takes advantage a scaling solution](https://github.com/KyberNetwork/hackathon-bounties/issues/15)
 Build a DApp that utilises one of the scaling solutions and integrate Kyber's protocol to handle the payment layer!
 
 ## Prizes
