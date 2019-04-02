@@ -45,6 +45,11 @@ If you need more ideas on what you can build, take a look at the bounties below!
 ### [Integrate Kyber into an application that takes advantage a scaling solution](https://github.com/KyberNetwork/hackathon-bounties/issues/15)
 Build a DApp that utilises one of the scaling solutions and integrate Kyber's protocol to handle the payment layer!
 
+#### Suggestions
+- Make a game using state channels. Reward the winner in the token of their choice.
+- Enhance existing payment channels to allow payments off-chain in any token.
+- Allow users to deposit and withdraw in any token from an application built on a side chain.
+
 ## Prizes
 Stand to win up to $1500 USD worth of KNC tokens for Kyber's EDCON bounty.
 
