@@ -57,7 +57,7 @@ Build a DApp that utilises Kyber natively for token swaps, payments, liquidity, 
 Prize Pool: $150 USD x 5 teams
 
 ### [Permissionless Liquidity Contribution](https://github.com/KyberNetwork/hackathon-bounties/issues/22)
-Create a new reserve that allows anyone to easily contribute liquidity to through an intuitive UI, without the need for KYC.
+Create a new reserve that allows anyone to easily contribute liquidity to through an intuitive UI, without the need for KYC. Alternatively, improve or streamline the existing process for liquidity contribution to the orderbook reserve on Kyber.
 
 Prize Pool: $600 USD x 2 teams
 
