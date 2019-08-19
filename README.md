@@ -1,6 +1,6 @@
 # Hackathon Bounties
 
-We are excited what projects will come out of ETHIndia!
+We are excited what projects will come out of ETHBerlin!
 
 <!-- Table Of Contents-->
 [What is Kyber?](#what-is-kyber)<br>
@@ -12,7 +12,7 @@ We are excited what projects will come out of ETHIndia!
 
 ## What is Kyber?
 
-Kyber is a fully on-chain protocol that powers decentralized token swaps for wallets, applications and platforms. It can be used in 4 major ways.
+Kyber is a fully on-chain protocol that aggregates liquidity from multiple sources to power decentralized token swaps in applications like wallets, financial dapps, e-commerce sites and more! It can be used in 4 major ways.
 
 ### 1. End User Token Swaps
 The simplest use-case that allows users to easily swap from any ERC20 token to another, including Ether. This functionality can be found in popular wallets like MyEtherWallet and imToken, and on websites such as KyberSwap and Easwap.
@@ -49,23 +49,12 @@ Here's the entire ecosystem map on what has been built on top of the Kyber proto
 
 ## Bounties
 
-Here's what we're looking to be built in ETHIndia. Total prize pool of $2550 up for grabs!
+Here's what we're looking to be built in ETHBerlin. Total prize pool of $1000 USD up for grabs!
 
-### [Open Bounty](https://github.com/KyberNetwork/hackathon-bounties/issues/21)
-Build a DApp that utilises Kyber natively for token swaps, payments, liquidity, or DeFi! The integration could be done via a smart contract, Web3 libraries or API.
+### [Open Bounty](https://github.com/KyberNetwork/hackathon-bounties/issues/25)
+Build a DApp that utilises Kyber natively for token swaps, payments, liquidity, or DeFi! The integration can be done via a smart contract, Web3 libraries, Restful APIs or the KyberWidget.
 
-Prize Pool: $150 USD x 5 teams
-
-### [Permissionless Liquidity Contribution](https://github.com/KyberNetwork/hackathon-bounties/issues/22)
-Create a new reserve that allows anyone to easily contribute liquidity to through an intuitive UI, without the need for KYC. Alternatively, improve or streamline the existing process for liquidity contribution to the orderbook reserve on Kyber.
-
-Prize Pool: $600 USD x 2 teams
-
-### [Modifying KyberWidget](https://github.com/KyberNetwork/hackathon-bounties/issues/23)
-The KyberWidget currently interacts directly with the KyberNetworkProxy contract only. It would be great if it could interact with wrapper contracts as well, by allowing the developer to configure the wrapper contract address and smart contract function to be called, and to be easily embedded into websites.
-
-Prize Pool: $300 USD x 2 teams
-
+Prize Pool: $200 USD x 5 teams
 
 ## Judging Criteria
 ### 1. Idea
@@ -86,7 +75,7 @@ Something that makes us go "Wow!"
 
 ## Terms and Conditions
 
-The prize amount to be awarded to each team is at the judges’ discretion. Should the project fail to meet satisfactory levels, a partial reward may be given instead of the full amount.
+The prize amount to be awarded to each team is at the judges’ discretion. Should the project fail to meet satisfactory levels, a partial reward may be given instead of the full amount. Additionally, being the only team that hacks for a particular bounty doesn't automatically make your team a winner. 
 
 ---
 
