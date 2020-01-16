@@ -51,25 +51,25 @@ Here's the entire ecosystem map on what has been built on top of the Kyber proto
 
 Here's what we're looking to be built in ETHDenver. We're offering a total prize pool of $5000 USD up for grabs!
 
-### [Open Bounty](https://github.com/KyberNetwork/hackathon-bounties/issues/25)
+### [Open Bounty](https://github.com/KyberNetwork/hackathon-bounties/issues/28)
 Build a DApp that utilises Kyber natively for token swaps, payments, liquidity, or DeFi! The integration can be done via a smart contract, Web3 libraries, Restful APIs or the KyberWidget.
 
-Prize Pool: $500 USD x 4 teams
+Prize Pool: $500 USD x 3 teams
 
-### [Profit & Loss Tracker for APRs](https://github.com/KyberNetwork/hackathon-bounties/issues/25)
+### [Profit & Loss Tracker for APRs](https://github.com/KyberNetwork/hackathon-bounties/issues/29)
 Design and implement a fancy tracker UI for our Automated Price Reserves (APRs), showing the profit and loss margins since the start of their deployment. It should monitor the ETH and token balances of each reserve, calculate their current USD value and compare it with the initial USD value of the initial amounts deposited.
 
 Prize Pool: $1000 USD
 
-### [APR Liquidity Metrics Dashboard & Simulator](https://github.com/KyberNetwork/hackathon-bounties/issues/25)
+### [APR Liquidity Metrics Dashboard & Simulator](https://github.com/KyberNetwork/hackathon-bounties/issues/30)
 Our APR allows for different initial configurations. When onboarding new token listings, a FAQ we get is how prices adjust for a given amount of inventory and price range. Create a simulator that allows users to input initial parameters, and outputs statistics (Eg. slippage, price adjustments against inventory, etc.) and other relevant liquidity metrics of interest.
 
 Prize pool: $1000 USD
 
-### [Instant APR Factory Deployer]
+### [Instant APR Factory Deployer](https://github.com/KyberNetwork/hackathon-bounties/issues/31)
 Our current APR deployment requires multiple steps and contract deployments. Write a smart contract that minimizes the amount of steps required. For example, a user wishing to create an APR supporting an already listed token on Kyber can do so by just sending 2x ETH inventory, together with desired permission and liquidity param settings. The factory contract will automatically convert half the amount to the requested token, deploy the reserve and pricing contracts with the input settings from the user.
 
-Prize pool: $1000 USD
+Prize pool: $1500 USD
 
 
 ## Judging Criteria
