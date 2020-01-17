@@ -1,6 +1,6 @@
 # Hackathon Bounties
 
-We are excited what projects will come out of ETHBerlin!
+We are excited to see what projects will come out of ETHDenver, the first ETH Global hackathon of the new decade!
 
 <!-- Table Of Contents-->
 [What is Kyber?](#what-is-kyber)<br>
@@ -49,25 +49,41 @@ Here's the entire ecosystem map on what has been built on top of the Kyber proto
 
 ## Bounties
 
-Here's what we're looking to be built in ETHBerlin. Total prize pool of $1000 USD up for grabs!
+Here's what we're looking to be built in ETHDenver. We're offering a total prize pool of $5000 USD up for grabs!
 
-### [Open Bounty](https://github.com/KyberNetwork/hackathon-bounties/issues/25)
-Build a DApp that utilises Kyber natively for token swaps, payments, liquidity, or DeFi! The integration can be done via a smart contract, Web3 libraries, Restful APIs or the KyberWidget.
+### [Open Bounty](https://github.com/KyberNetwork/hackathon-bounties/issues/28)
+Build a DApp that utilises Kyber natively for token swaps, payments, liquidity, or DeFi! The integration can be done via a smart contract, web3, RESTful APIs, or the KyberWidget.
 
-Prize Pool: $200 USD x 5 teams
+Prize Pool: $500 USD x 3 teams
+
+### [Profit & Loss Tracker for APRs](https://github.com/KyberNetwork/hackathon-bounties/issues/29)
+Design and implement a fancy tracker UI for our Automated Price Reserves (APRs), showing the profit and loss margins since the start of their deployment. It should monitor the ETH and token balances of each reserve, calculate their current USD value, and compare it with the initial USD value of the initial amounts deposited.
+
+Prize Pool: $1000 USD
+
+### [APR Liquidity Metrics Dashboard & Simulator](https://github.com/KyberNetwork/hackathon-bounties/issues/30)
+Our APR allows for different initial configurations. When onboarding new token listings, a FAQ we get is how prices adjust for a given amount of inventory and price range. Create a simulator that allows users to input initial parameters, and outputs statistics (Eg. slippage, price adjustments against inventory, etc.) and other relevant liquidity metrics of interest.
+
+Prize pool: $1000 USD
+
+### [Instant APR Factory Deployer](https://github.com/KyberNetwork/hackathon-bounties/issues/31)
+Our current APR deployment requires multiple steps and contract deployments. Write a smart contract that minimizes the amount of steps required. For example, a user wishing to create an APR supporting an already listed token on Kyber can do so by just sending 2x the ETH inventory, together with the desired permission and liquidity param settings. The factory contract will automatically convert half the amount to the requested token and deploy the reserve and pricing contracts with the input settings from the user.
+
+Prize pool: $1500 USD
+
 
 ## Judging Criteria
 ### 1. Idea
-The importance of Kyber's protocol in the application, & originality of the idea.
+The importance of Kyber's protocol in the application, and originality of the idea.
 
 ### 2. User Experience
 Intuitive, easy to use and interact with.
 
-### 3. Technical Difficulty
+### 3. Technical Complexity
 Going above and beyond of what we specified. Good code quality, bug free, with thorough documentation.
 
-### 4. Usability
-Other projects are able to build on top of your application, or incorporate it into their own.
+### 4. Polish
+How refined your project is.
 
 ### 5. X Factor
 Something that makes us go "Wow!"
